@@ -101,7 +101,7 @@ attr(maxInterval, 'names')
 
 ##Inputing missing values
 
-First, let's determine how many missing values there are in the data set.
+First, let's calculate how many missing values there are in the data set.
 
 
 ```r
